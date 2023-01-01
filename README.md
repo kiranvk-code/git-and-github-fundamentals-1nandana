@@ -1,3 +1,6 @@
+submitted by NANDANA S
+CSE
+33
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
